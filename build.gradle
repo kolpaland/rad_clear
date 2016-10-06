@@ -9,8 +9,6 @@ dependencies {
     //compile fileTree(dir: './lib', include: ['*.jar'])
 // https://mvnrepository.com/artifact/commons-io/commons-io
     compile group: 'commons-io', name: 'commons-io', version: '1.2'
-// https://mvnrepository.com/artifact/log4j/log4j
-    //compile group: 'log4j', name: 'log4j', version: '1.2.17'
 // https://mvnrepository.com/artifact/org.slf4j/nlog4j
     compile group: 'org.slf4j', name: 'nlog4j', version: '1.2.21'
 
